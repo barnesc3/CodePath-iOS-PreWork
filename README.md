@@ -24,7 +24,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/gallery/Vh4cWZN.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
+
+![tipcalculator](https://user-images.githubusercontent.com/81548664/182108281-bad3f262-792a-45b1-a21c-4931e29cfe72.gif)
+
 
 GIF created with [Gifox](https://gifox.io/).
 
